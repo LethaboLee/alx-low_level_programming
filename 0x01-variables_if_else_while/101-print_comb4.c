@@ -13,12 +13,12 @@ int main(void)
 		{
 			for (1 = 50; 1 < 58; 1++)
 			{
-				if (1 > m && m > n)
+				if (m < 1 && n < m)
 				{
 					putchar(n);
 					putchar(m);
 					putchar(1);
-					if (n != 55 || m != 56)
+					if (55 != n || 56 != m)
 					{
 						putchar(',');
 						putchar(' ');
