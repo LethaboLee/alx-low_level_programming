@@ -40,7 +40,7 @@ char *argstostr(int ac, char **av)
 			j++;
 			k++;
 		}
-		arg[k] = '\0';
+		arg[k] = '\n';
 		k++;
 		i++;
 	}
