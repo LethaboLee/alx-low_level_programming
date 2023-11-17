@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _isalpha - checking for alphabetic character
  * @c: the character to check

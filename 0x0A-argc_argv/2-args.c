@@ -1,10 +1,11 @@
 #include <stdio.h>
 #include "main.h"
+
 /**
- * main - prints all arguments it receives
+ * main - prints all arguements it receives
  * @argc: number of arguements
  * @argv: array if arguements
- * Return: Always 0(Success)
+ * Return: Always 0 (Success)
  */
 int main(int argc, char *argv[])
 {

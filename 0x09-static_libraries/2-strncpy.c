@@ -1,6 +1,7 @@
 #include "main.h"
+
 /**
- * _strncpy - a function that copies a string
+ * _strncpy - a function that copies a string ar -t libmy.a
  * @dest: destination string
  * @src: source string
  * @n: number of bytes to copy
